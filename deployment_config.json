@@ -6,5 +6,5 @@
    "buildPath": "WESB/AsynchApplications/wefdomain",
    "buildCommand": "mvn clean install",
    "unitTestsCommand": "mvn test",
-   "updateDataBase": false
+   "updateDatabase": false
 }
