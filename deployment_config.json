@@ -4,7 +4,7 @@
    "isDomainApp": false,
    "description": "Application",
    "buildPath": "WESB/AsynchApplications/wefdomain",
-   "buildCommand": "mvn clean install -DskipTests",
+   "buildCommand": "mvn clean install",
    "unitTestsCommand": "mvn test",
    "updateDataBase": false
 }
